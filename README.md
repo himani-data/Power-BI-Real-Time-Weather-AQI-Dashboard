@@ -31,7 +31,7 @@ This project connects to live JSON endpoints from [WeatherAPI](https://www.weath
 
 ## 📸 Preview
 
-> ![Dahboard](Power-BI-Real-Time-Weather-AQI-Dashboard.png)
+> ![Dahboard](Real Time Weather an AQI Dashboard.png)
 
 ---
 
