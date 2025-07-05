@@ -10,7 +10,7 @@ This project connects to live JSON endpoints from [WeatherAPI](https://www.weath
 
 - 🌡️ Temperature, humidity, pressure, wind  
 - 🌫️ Air quality (PM2.5, CO, SO2, NO2, etc.)  
-- 📅 7-day weather forecast with icons  
+- 📅 10-day weather forecast with icons  
 - 📍 City selection slicers with location icons  
 - 🧠 Smart text-based AQI health suggestions  
 - 🕒 “Last Updated” field with custom date formatting  
@@ -48,5 +48,5 @@ This project connects to live JSON endpoints from [WeatherAPI](https://www.weath
 
 **Himani Verma**  
 B.Sc. (Hons.) Computer Science | Delhi University  
-GitHub: []
+GitHub: [https://github.com/himani-data]
 
